@@ -1,0 +1,1 @@
+# whitehat-stack-example
